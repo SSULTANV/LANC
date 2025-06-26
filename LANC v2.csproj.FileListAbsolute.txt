@@ -1,0 +1,17 @@
+C:\Users\PsychoNation\AppData\Local\Temporary Projects\LANC v2\bin\Debug\LANC v2.exe.config
+K:\Work\SourceCodes\LANC v2\LANC v2\obj\Debug\LANC_v2.Form1.resources
+K:\Work\SourceCodes\LANC v2\LANC v2\obj\Debug\LANC_v2.Properties.Resources.resources
+K:\Work\SourceCodes\LANC v2\LANC v2\obj\Debug\LANC v2.csproj.GenerateResource.Cache
+K:\Work\SourceCodes\LANC v2\LANC v2\obj\Debug\LANC_v2.LabelForm.resources
+K:\Work\SourceCodes\LANC v2\LANC v2\bin\Debug\LANC v2.exe.config
+K:\Work\SourceCodes\LANC v2\LANC v2\bin\Debug\LANC v2.exe
+K:\Work\SourceCodes\LANC v2\LANC v2\bin\Debug\LANC v2.pdb
+K:\Work\SourceCodes\LANC v2\LANC v2\bin\Debug\LoginTheme.dll
+K:\Work\SourceCodes\LANC v2\LANC v2\bin\Debug\MephTheme.dll
+K:\Work\SourceCodes\LANC v2\LANC v2\bin\Debug\LoginTheme.pdb
+K:\Work\SourceCodes\LANC v2\LANC v2\bin\Debug\LoginTheme.xml
+K:\Work\SourceCodes\LANC v2\LANC v2\bin\Debug\MephTheme.pdb
+K:\Work\SourceCodes\LANC v2\LANC v2\bin\Debug\MephTheme.xml
+K:\Work\SourceCodes\LANC v2\LANC v2\obj\Debug\LANC v2.exe
+K:\Work\SourceCodes\LANC v2\LANC v2\obj\Debug\LANC v2.pdb
+K:\Work\SourceCodes\LANC v2\LANC v2\obj\Debug\LANC v2.csprojResolveAssemblyReference.cache
